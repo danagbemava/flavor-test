@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "811132013155",
+    "firebase_url": "https://my-food-journal-d3606.firebaseio.com",
+    "project_id": "my-food-journal-d3606",
+    "storage_bucket": "my-food-journal-d3606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811132013155:android:d2fc34d81eb715fa19c656",
+        "android_client_info": {
+          "package_name": "com.example.flavor_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811132013155-8t2lbq2b709qcrr10t9i46cjthf4k1ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSGQJ6Zt7aAjN_uGXTYl8PYU7fx43GGf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811132013155-8t2lbq2b709qcrr10t9i46cjthf4k1ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811132013155:android:de8c92ac9bbe21a119c656",
+        "android_client_info": {
+          "package_name": "com.example.gsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811132013155-8t2lbq2b709qcrr10t9i46cjthf4k1ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSGQJ6Zt7aAjN_uGXTYl8PYU7fx43GGf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811132013155-8t2lbq2b709qcrr10t9i46cjthf4k1ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811132013155:android:482b881b595f9d0a",
+        "android_client_info": {
+          "package_name": "com.example.my_food_journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811132013155-8t2lbq2b709qcrr10t9i46cjthf4k1ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSGQJ6Zt7aAjN_uGXTYl8PYU7fx43GGf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811132013155-8t2lbq2b709qcrr10t9i46cjthf4k1ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
