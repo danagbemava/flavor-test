@@ -52,4 +52,4 @@ jobs:
           appId: ${{secrets.FIREBASE_APP_ID}}
           token: ${{secrets.FIREBASE_TOKEN}}
           file: build/app/outputs/flutter-apk/app-release.apk
-          group: pre-release
+          groups: pre-release
